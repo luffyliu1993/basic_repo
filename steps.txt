@@ -1,0 +1,4 @@
+1. create a repository in github
+2. create a repository with git in my local machine
+3. add the remote repository to my local git repository
+4. push all the files in my local git repostitory to github
